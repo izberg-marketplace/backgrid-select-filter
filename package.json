@@ -1,0 +1,24 @@
+{
+  "name": "@izberg/backgrid-select-filter",
+  "version": "0.1.0",
+  "description": "Forked from AmiliaApp.",
+  "main": "backgrid-select-filter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"backbone": "1.*",
+  	"underscore": "1.*",
+  	"backgrid": "0.3.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izberg-marketplace/backgrid-select-filter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izberg-marketplace/backgrid-select-filter/issues"
+  },
+  "homepage": "https://github.com/izberg-marketplace/backgrid-select-filter#readme"
+}
